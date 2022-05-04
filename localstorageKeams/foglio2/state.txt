@@ -1,0 +1,1 @@
+{"name": "foglio2", "createTime": "2022-05-04 13:14:59.260806", "modifyTime": "null", "state": "\u5df2\u5b8c\u6210", "acc": "", "nmi": "", "size": "3", "skipHeader": true, "dCenters": {"8": 72, "1": 65}}

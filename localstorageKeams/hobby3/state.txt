@@ -1,0 +1,1 @@
+{"name": "hobby3", "createTime": "2022-05-04 15:13:50.354933", "modifyTime": "null", "state": "\u5df2\u5b8c\u6210", "acc": "", "nmi": "", "size": "35", "skipHeader": true, "dCenters": {"1": 536, "0": 474}}

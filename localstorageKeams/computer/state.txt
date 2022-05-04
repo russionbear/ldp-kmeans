@@ -1,0 +1,1 @@
+{"name": "computer", "createTime": "2022-05-04 13:47:50.616344", "modifyTime": "null", "state": "\u5df2\u5b8c\u6210", "acc": "0.981", "nmi": "0.9214371643716386", "size": "3", "skipHeader": false, "dCenters": {"10": 335, "22": 333, "24": 332}}

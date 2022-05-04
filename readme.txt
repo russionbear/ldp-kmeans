@@ -1,7 +1,5 @@
-# ldp-kmeans 
 
-##目录结构
-```
+目录结构
     /README.md                  git相关
     /.gitignore                 git相关
 
@@ -20,8 +18,8 @@
 
     /tools
         - /builder.py               用来将二进制图片数据转为字符串并写入到 /source/images.py
+        - /make_data.py             制作算法程序的测试数据
     /encipher.py                对用户的密码进行加密、解密
     /LDP_Searching.m            由matlab打包的可被python调用的文件
     /myCpu.py                   内有数据预处理和基于ldp-kmeans离群检测算法的程序
     /login.py                   界面程序，程序的入口文件
-```
